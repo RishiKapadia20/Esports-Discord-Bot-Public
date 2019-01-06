@@ -20,4 +20,4 @@ List of Commands:
 * !verify: checks to see if you are a member and updates your tag
 * !lolstats: takes a snapshot of your recent statistics. *Example:* `!lolstats EUW best_ign`
 * !updateranks: updates your competitive ranks in the esports google doc
-* updatelol: updates your League of Legends in game name on google doc *Example:* `!updatelol SKT Faker \n!sports-role: adds sports-irl role`
+* !updatelol: updates your League of Legends in game name on google doc *Example:* `!updatelol SKT Faker \n!sports-role: adds sports-irl role`
