@@ -12,12 +12,12 @@ I found this project extremely fun as it was a real-world problem for me where I
 
 List of Commands:
 
-**!signup: will ask the user a series of questions to set up correct server roles 
-**!cleanup: manual removal of unverified users
-**!unverified: lists all users in the server that are unverfied
-**!invlink: creates a temporary invite link that can only be used once
+*!signup: will ask the user a series of questions to set up correct server roles 
+*!cleanup: manual removal of unverified users
+*!unverified: lists all users in the server that are unverfied
+*!invlink: creates a temporary invite link that can only be used once
 **!broadcast: direct messages everyone with a specific role with a message
-**!verify: checks to see if you are a member and updates your tag
-**!lolstats: takes a snapshot of your recent statistics. *Example:* `!lolstats EUW best_ign`
-**!updateranks: updates your competitive ranks in the esports google doc
-**updatelol: updates your League of Legends in game name on google doc *Example:* `!updatelol SKT Faker \n!sports-role: adds sports-irl role`
+*!verify: checks to see if you are a member and updates your tag
+*!lolstats: takes a snapshot of your recent statistics. *Example:* `!lolstats EUW best_ign`
+*!updateranks: updates your competitive ranks in the esports google doc
+*updatelol: updates your League of Legends in game name on google doc *Example:* `!updatelol SKT Faker \n!sports-role: adds sports-irl role`
